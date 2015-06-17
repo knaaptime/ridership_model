@@ -1,0 +1,64 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<table cellspacing="0" align="center" style="border: none;">
+<caption align="bottom" style="margin-top:0.3em;">Statistical models</caption>
+<tr>
+<th style="text-align: left; border-top: 2px solid black; border-bottom: 1px solid black; padding-right: 12px;"></th>
+<th style="text-align: left; border-top: 2px solid black; border-bottom: 1px solid black; padding-right: 12px;"><b>Model 1</b></th>
+</tr>
+<tr>
+<td style="padding-right: 12px; border: none;">(Intercept)</td>
+<td style="padding-right: 12px; border: none;">6.63<sup style="vertical-align: 0px;">***</sup></td>
+</tr>
+<tr>
+<td style="padding-right: 12px; border: none;"></td>
+<td style="padding-right: 12px; border: none;">(0.16)</td>
+</tr>
+<tr>
+<td style="padding-right: 12px; border: none;">peak_fare_05</td>
+<td style="padding-right: 12px; border: none;">-0.36<sup style="vertical-align: 0px;">***</sup></td>
+</tr>
+<tr>
+<td style="padding-right: 12px; border: none;"></td>
+<td style="padding-right: 12px; border: none;">(0.01)</td>
+</tr>
+<tr>
+<td style="border-top: 1px solid black;">AIC</td>
+<td style="border-top: 1px solid black;">19528.20</td>
+</tr>
+<tr>
+<td style="padding-right: 12px; border: none;">BIC</td>
+<td style="padding-right: 12px; border: none;">19562.44</td>
+</tr>
+<tr>
+<td style="padding-right: 12px; border: none;">Log Likelihood</td>
+<td style="padding-right: 12px; border: none;">-9759.10</td>
+</tr>
+<tr>
+<td style="padding-right: 12px; border: none;">Num. obs.</td>
+<td style="padding-right: 12px; border: none;">6961</td>
+</tr>
+<tr>
+<td style="padding-right: 12px; border: none;">Num. groups: mstn_id_o</td>
+<td style="padding-right: 12px; border: none;">84</td>
+</tr>
+<tr>
+<td style="padding-right: 12px; border: none;">Num. groups: mstn_id_d</td>
+<td style="padding-right: 12px; border: none;">84</td>
+</tr>
+<tr>
+<td style="padding-right: 12px; border: none;">Variance: mstn_id_o.(Intercept)</td>
+<td style="padding-right: 12px; border: none;">0.67</td>
+</tr>
+<tr>
+<td style="padding-right: 12px; border: none;">Variance: mstn_id_d.(Intercept)</td>
+<td style="padding-right: 12px; border: none;">1.27</td>
+</tr>
+<tr>
+<td style="border-bottom: 2px solid black;">Variance: Residual</td>
+<td style="border-bottom: 2px solid black;">0.87</td>
+</tr>
+<tr>
+<td style="padding-right: 12px; border: none;" colspan="2"><span style="font-size:0.8em"><sup style="vertical-align: 0px;">***</sup>p &lt; 0.001, <sup style="vertical-align: 0px;">**</sup>p &lt; 0.01, <sup style="vertical-align: 0px;">*</sup>p &lt; 0.05</span></td>
+</tr>
+</table>
